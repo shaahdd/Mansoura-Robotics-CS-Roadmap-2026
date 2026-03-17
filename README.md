@@ -28,7 +28,10 @@ Cover the basics of programming, including Loops, Functions,and Arrays.
             <a href="https://youtu.be/DzwcA_sRIss?si=1lzzyOW3dlj_9LJP">Abo Hadhoud</a>
           </li>
           <li>
-            <a href="https://youtu.be/07AC2Syf4Yg?si=bfPWjbp5bfubIpZ0"> Yehia tech</a>
+            <a href="https://youtu.be/07AC2Syf4Yg?si=bfPWjbp5bfubIpZ0"> Yehia Tech</a>
+          </li>
+          <li>
+            <a href="https://youtu.be/z1FdInL8sjg?si=L0PXeWDMUMpPTI5o"> Adel Nasim</a>
           </li>
           <li>
             <a href="https://youtu.be/35qTqtpQMxg?si=MDgILYevGRPKDX_B">اتعلم ببساطة</a>
@@ -37,7 +40,7 @@ Cover the basics of programming, including Loops, Functions,and Arrays.
         <h6>🌏 English</h6>
         <ul>
          <li>
-            <a href="https://youtu.be/vLnPwxZdW4Y?si=TpStSQmKZ3LX628M">Free code camp</a>
+            <a href="https://youtu.be/vLnPwxZdW4Y?si=TpStSQmKZ3LX628M">Free Code Camp</a>
             </li>
         </ul>
       </td>

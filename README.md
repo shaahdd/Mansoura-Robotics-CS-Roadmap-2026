@@ -9,13 +9,11 @@ Cover the basics of programming, including Loops, Functions,and Arrays.
 <table style="  width: 100%; border-collapse: collapse;font-family: Arial, sans-serif; ">
   <thead>
     <tr style="background-color: #492d81; color: white">
-      <th style="padding: 10px; text-align: center">Week</th>
       <th style="padding: 10px; text-align: center">Content</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Week 1</td>
       <td>
         <h5>📚 Topics</h5>
         <ul>

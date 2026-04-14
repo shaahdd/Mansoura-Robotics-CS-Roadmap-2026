@@ -9,11 +9,8 @@
 
 ---
 
-![Cover Image](your-image-link-here)
 
-<img src="your-image-link-here" width="600"/>
 
----
 
 ## 📌 About the Circle
 
